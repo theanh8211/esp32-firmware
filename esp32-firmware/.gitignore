@@ -1,0 +1,15 @@
+# PlatformIO
+.pio/
+.vscode/
+
+# Build output
+*.bin
+*.elf
+*.map
+
+# Env
+.env
+.env.*
+
+# OS
+.DS_Store
