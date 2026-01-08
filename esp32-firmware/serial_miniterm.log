@@ -1,0 +1,43 @@
+--- Miniterm on /dev/ttyUSB0  115200,8,N,1 ---
+--- Quit: Ctrl+] | Menu: Ctrl+T | Help: Ctrl+T followed by Ctrl+H ---
+[SENSORS] DHT t=26.30 h=58.60 dhtFail=0
+[SENSORS] RAW soil1=813 soil2=1149
+[SENSORS] rawLight=1445 rawPHraw=163.8
+[SENSORS] light=39 ph=18.05 voltage=0.132
+[PUMP_DEBUG] avgSoil=64.5 thresh=74.0 pumpAuto=0 relayOverride=1 state.pump=0 lastPumpToggle=0
+[HTTP] POST http://192.168.31.44:80/api/v1/agents/ESP9528/status
+[HTTP] payload len=346
+[SERVER_RESP] response: 
+ota
+[PUMP_DEBUG] avgSoil=64.5 thresh=74.0 pumpAuto=0 relayOverride=1 state.pump=0 lastPumpToggle=0
+[SENSORS] DHT t=26.30 h=58.60 dhtFail=0
+[SENSORS] RAW soil1=1294 soil2=1810
+[SENSORS] rawLight=2187 rawPHraw=262.2
+[SENSORS] light=43 ph=18.55 voltage=0.211
+[PUMP_DEBUG] avgSoil=64.0 thresh=74.0 pumpAuto=0 relayOverride=1 state.pump=0 lastPumpToggle=0
+[SENSORS] DHT t=26.30 h=58.60 dhtFail=0
+[SENSORS] RAW soil1=833 soil2=1189
+[SENSORS] rawLight=1499 rawPHraw=178.1
+[SENSORS] light=40 ph=19.01 voltage=0.144
+[PUMP_DEBUG] avgSoil=68.0 thresh=74.0 pumpAuto=0 relayOverride=1 state.pump=0 lastPumpToggle=0
+[SENSORS] DHT t=26.30 h=58.60 dhtFail=0
+[SENSORS] RAW soil1=1298 soil2=1719
+[SENSORS] rawLight=2063 rawPHraw=732.5
+[SENSORS] light=43 ph=18.59 voltage=0.590
+[PUMP_DEBUG] avgSoil=67.0 thresh=74.0 pumpAuto=0 relayOverride=1 state.pump=0 lastPumpToggle=0
+[WATCHDOG] stacks: server=8628 lcd=6344 btn=3560 sensor=1288 freeHeap=179536
+[SENSORS] DHT t=26.30 h=58.60 dhtFail=0
+[SENSORS] RAW soil1=782 soil2=1131
+[SENSORS] rawLight=1503 rawPHraw=140.8
+[SENSORS] light=40 ph=19.09 voltage=0.113
+[PUMP_DEBUG] avgSoil=70.5 thresh=74.0 pumpAuto=0 relayOverride=1 state.pump=0 lastPumpToggle=0
+[HTTP] POST http://192.168.31.44:80/api/v1/agents/ESP9528/status
+[HTTP] payload len=346
+[SERVER_RESP] response: 
+ota
+[PUMP_DEBUG] avgSoil=70.5 thresh=74.0 pumpAuto=0 relayOverride=1 state.pump=0 lastPumpToggle=0
+[SENSORS] DHT t=26.30 h=58.60 dhtFail=0
+[SENSORS] RAW soil1=839 soil2=1187
+[SENSORS] rawLight=1481 rawPHraw=155.1
+[SENSORS] light=38 ph=19.42 voltage=0.125
+[PUMP_DEBUG] avgSoil=72.5 thresh=74.0 pumpAuto=0 relayOverride=1 state.pump=0 lastPumpToggle=0

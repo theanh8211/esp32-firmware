@@ -1,0 +1,5 @@
+knolleary/PubSubClient@^2.8
+https://github.com/duinoWitchery/hd44780.git
+bblanchon/ArduinoJson@^6.21.0
+https://github.com/arduino-libraries/NTPClient.git
+https://github.com/adafruit/DHT-sensor-library.git

@@ -1,0 +1,33 @@
+ets Jul 29 2019 12:21:46
+
+rst:0x1 (POWERON_RESET),boot:0x17 (SPI_FAST_FLASH_BOOT)
+configsip: 0, SPIWP:0xee
+clk_drv:0x00,q_drv:0x00,d_drv:0x00,cs0_drv:0x00,hd_drv:0x00,wp_drv:0x00
+mode:DIO, clock div:2
+load:0x3fff0030,len:1184
+load:0x40078000,len:13232
+load:0x40080400,len:3028
+entry 0x400805e4
+=== BOOT START ===
+Using internal watchdogTask for health checks (task WDT disabled)
+LittleFS mounted
+LCD khoi tao thanh cong voi hd44780
+Reset WiFi state...
+SSID=[Ngaos] len=5
+PASS len=8
+....
+Ket noi WiFi thanh cong
+Debug web server started on port 80
+[MQTT] connected
+[WATCHDOG] stacks: server=11568 lcd=0 btn=0 sensor=0 freeHeap=201056
+[SENSORS] DHT t=22.60 h=61.50 dhtFail=0
+[SENSORS] RAW soil1=888 soil2=1276
+[SENSORS] rawLight=1479 rawPHraw=442.8
+[SENSORS] light=10 ph=10.57 voltage=0.357
+[PUMP_DEBUG] avgSoil=22.5 thresh=74.0 pumpAuto=0 relayOverride=0 state.pump=0 lastPumpToggle=0
+[ALERT] POST failed code=-11 err=read Timeout
+[SENSORS] DHT t=22.60 h=61.50 dhtFail=0
+[SENSORS] RAW soil1=1158 soil2=1485
+[SENSORS] rawLight=1781 rawPHraw=714.9
+[SENSORS] light=19 ph=12.71 voltage=0.576
+[PUMP_DEBUG] avgSoil=36.5 thresh=74.0 pumpAuto=0 relayOverride=0 state.pump=0 lastPumpToggle=0
